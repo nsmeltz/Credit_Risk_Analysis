@@ -24,8 +24,10 @@ Using bulleted lists, describe the balanced accuracy scores and the precision an
     
 ### II. Ensemble Learning Modeling
   - **Balanced Random Forest Classification**
+  ![Balanced Random Forest Classification](https://github.com/nsmeltz/Credit_Risk_Analysis/blob/fcf5bf6872fc110a0f548d9ca1a7af36e6f35c5d/Images/balanced_random_forest_classification.jpg)
+  
   - **Easy Ensemble AdaBoost Classification**
-
+  ![Easy Ensemble AdaBoost Classification](https://github.com/nsmeltz/Credit_Risk_Analysis/blob/fcf5bf6872fc110a0f548d9ca1a7af36e6f35c5d/Images/easy_ensemble_adaboost_classification.jpg)
 # Summary 
 
 Summarize the results of the machine learning models, and include a recommendation on the model to use, if any. If you do not recommend any of the models, justify your reasoning.
