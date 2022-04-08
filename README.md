@@ -13,7 +13,7 @@ Using bulleted lists, describe the balanced accuracy scores and the precision an
     - **Random Oversampling**                                                                            
     ![Random Oversampling](https://github.com/nsmeltz/Credit_Risk_Analysis/blob/8f288df3588427d9023a88b996eb33d27e2d4e8d/Images/random_oversampling.jpg)
     - **SMOTE Oversampling**
-
+    ![SMOTE Oversampling](https://github.com/nsmeltz/Credit_Risk_Analysis/blob/8f288df3588427d9023a88b996eb33d27e2d4e8d/Images/smote_oversampling.jpg)
   - ### Undersampling
     - **Cluster Centroid Undersampling**
 
