@@ -4,9 +4,6 @@
 The purpose of this analysis is to apply 6 machine learning algorithms and assess which model produces the best results for the given [credit dataset](https://github.com/nsmeltz/Credit_Risk_Analysis/blob/0f3846712b105e79d36c388d4bdbc2354fadf271/LoanStats_2019Q1.csv).
 
 # Results 
-
-Using bulleted lists, describe the balanced accuracy scores and the precision and recall scores of all six machine learning models. Use screenshots of your outputs to support your results.
-
 ### I. Resampling with Logistic Regression Modeling
 
   - ### Oversampling
@@ -39,4 +36,4 @@ Using bulleted lists, describe the balanced accuracy scores and the precision an
 
 # Summary 
 
-In summary all of these machine learning models had nearly the same accuracy (55-65%) except the ensemble learning methods (80-90%). At first glance it may seem that the Easy Ensemble AdaBoost is the best models because of the high accuracy and recall, but it also may be overfitting the noise/ outliers in data.  
+In summary all of these machine learning models had nearly the same accuracy (55-65%) except the ensemble learning methods (80-90%). At first glance it may seem that the Easy Ensemble AdaBoost is the best models because of the high accuracy and recall, but it also may be overfitting the noise/ outliers in data. I would choose the balanced random forest classification because it accurately predicts 80% of the input data while also retaining a high recall and increased precision compared to the resampling with logistic regression models 
