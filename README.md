@@ -10,14 +10,14 @@ Using bulleted lists, describe the balanced accuracy scores and the precision an
 ## Resampling with Logistic Regression Modeling
 
 ### Oversampling
-#### Random Oversampling
-#### SMOTE Oversampling
+  1. #### Random Oversampling
+  2. #### SMOTE Oversampling
 
 ### Undersampling
-#### Cluster Centroid Undersampling
+  3. #### Cluster Centroid Undersampling
 
-### Combination Sampling
-#### SMOTEENN Combination Sampling
+### Combination Sampling  
+  4. #### SMOTEENN Combination Sampling
 
 
 ## Ensemble Learning Modeling
