@@ -21,8 +21,8 @@ Using bulleted lists, describe the balanced accuracy scores and the precision an
 
 
 ## Ensemble Learning Modeling
-  5. ### Balanced Random Forest Classification
-  6. ### Easy Ensemble AdaBoost Classification
+  V ### Balanced Random Forest Classification
+  VI ### Easy Ensemble AdaBoost Classification
 
 # Summary 
 
