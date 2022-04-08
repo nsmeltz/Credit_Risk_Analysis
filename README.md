@@ -9,7 +9,7 @@ Using bulleted lists, describe the balanced accuracy scores and the precision an
 
 ### I. Resampling with Logistic Regression Modeling
 
-  ### A) Oversampling
+  - ### A) Oversampling
     - Random Oversampling
   
     - SMOTE Oversampling
