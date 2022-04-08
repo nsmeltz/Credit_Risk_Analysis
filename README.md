@@ -16,11 +16,11 @@ Using bulleted lists, describe the balanced accuracy scores and the precision an
     ![SMOTE Oversampling](https://github.com/nsmeltz/Credit_Risk_Analysis/blob/8f288df3588427d9023a88b996eb33d27e2d4e8d/Images/smote_oversampling.jpg)
   - ### Undersampling
     - **Cluster Centroid Undersampling**
-    ![Cluster Centroid Undersampling](https://github.com/nsmeltz/Credit_Risk_Analysis/blob/8f288df3588427d9023a88b996eb33d27e2d4e8d/Images/cluster_centroid_oversampling.jpg)
+    ![Cluster Centroid Undersampling](https://github.com/nsmeltz/Credit_Risk_Analysis/blob/0e58922b7860f5c20419b1f405ab33f9bc3c3afc/Images/cluster_centroid_undersampling.jpg)
     
   - ### Combination Sampling  
     - **SMOTEENN Combination Sampling**
-    ![SMOTEENN Combo Sampling](https://github.com/nsmeltz/Credit_Risk_Analysis/blob/8f288df3588427d9023a88b996eb33d27e2d4e8d/Images/smoteenn_combo_sampling.jpg)
+    ![SMOTEENN Combo Sampling](https://github.com/nsmeltz/Credit_Risk_Analysis/blob/0e58922b7860f5c20419b1f405ab33f9bc3c3afc/Images/smoteenn_combosampling.jpg)
     
 ### II. Ensemble Learning Modeling
   - **Balanced Random Forest Classification**
