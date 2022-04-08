@@ -7,20 +7,20 @@ The purpose of this analysis is to apply 6 machine learning algorithms and asses
 
 Using bulleted lists, describe the balanced accuracy scores and the precision and recall scores of all six machine learning models. Use screenshots of your outputs to support your results.
 
-### Resampling with Logistic Regression Modeling
+### I. Resampling with Logistic Regression Modeling
 
-  ### Oversampling
+  ### A) Oversampling
     - Random Oversampling
   
     - SMOTE Oversampling
 
-  ### Undersampling
+  ### B) Undersampling
     - ### Cluster Centroid Undersampling
 
-  ### Combination Sampling  
+  ### C) Combination Sampling  
     - SMOTEENN Combination Sampling
     
-### Ensemble Learning Modeling
+### II. Ensemble Learning Modeling
     - Balanced Random Forest Classification
     - Easy Ensemble AdaBoost Classification
 
